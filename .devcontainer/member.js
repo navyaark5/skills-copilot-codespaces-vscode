@@ -1,0 +1,5 @@
+function skillsmember(){
+
+    E = ENgineer
+
+}
